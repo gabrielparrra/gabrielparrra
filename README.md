@@ -2,9 +2,11 @@
 
 Olá! Eu sou o Gabriel! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um estudante de Análise e Desenvolvimento de Sistemas (3º semestre) com interesse em Desenvolvimento Web, Front-End, Análise de dados, Machine Learning, Cloud Computing e diversas outras áreas.
+Bem-vindo ao meu perfil no GitHub! Sou um estudante de Análise e Desenvolvimento de Sistemas (3º semestre) com interesse em Desenvolvimento Web, Front-End, Análise de dados, Machine Learning, Cloud Computing e diversas outras áreas. 
 
-Estou buscando uma oportunidade na área da tecnologia! 
+Gosto de aprender coisas novas e considero que tenho certa facilidade no processo de aprendizagem. 🤓
+
+Estou buscando uma oportunidade na área da tecnologia! 👩‍💻
 
 ## 📚 Formação acadêmica
 
