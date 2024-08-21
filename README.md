@@ -22,3 +22,8 @@ Estou buscando uma oportunidade na área da tecnologia! 👩‍💻
 - 📧 E-mail: bielparra17@gmail.com
 
 Obrigado por visitar meu perfil! 🚀
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielparrra&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielparrra&layout=compact&theme=radical)
+
