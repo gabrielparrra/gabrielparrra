@@ -3,8 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Gabriel+Parra+;Eu+sou+um+desenvolvedor+Front-end+;Seja+bem-vindo!+😎)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/gabrielparrra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielparrra&layout=compact&langs_count=7&theme=dark"/>
+
+  <p>Bem-vindo ao meu perfil no GitHub! Sou um estudante de Análise e Desenvolvimento de Sistemas (3º semestre) com interesse em Desenvolvimento Web, Front-End, Análise de dados, Machine Learning, Cloud Computing e diversas outras áreas.
+
+Gosto de aprender coisas novas e considero que tenho certa facilidade no processo de aprendizagem. 🤓
+
+Estou buscando uma oportunidade na área da tecnologia! 👩‍💻</p>
     
 <section>
 
@@ -39,6 +43,9 @@
 </div>
 
 #
+
+<a href="https://github.com/gabrielparrra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielparrra&layout=compact&langs_count=7&theme=dark"/>
 
 
 <div align="center">
