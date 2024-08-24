@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <p>Bem-vindo ao meu perfil no GitHub! Sou um estudante de Análise e Desenvolvimento de Sistemas (3º semestre) com interesse em Desenvolvimento Web, Front-End, Análise de dados, Machine Learning, Cloud Computing e diversas outras áreas.
+  <p>Sou um estudante de Análise e Desenvolvimento de Sistemas (3º semestre) com interesse em Desenvolvimento Web, Front-End, Análise de dados, Machine Learning, Cloud Computing e diversas outras áreas.
 
 Gosto de aprender coisas novas e considero que tenho certa facilidade no processo de aprendizagem. 🤓
 
