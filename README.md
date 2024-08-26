@@ -29,7 +29,7 @@ Estou buscando uma oportunidade na área da tecnologia! 👩‍💻</p>
 
 <h3>Estudando atualmente:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,aws,azure,linux,nodejs,)](https://skillicons.dev)
   
 </section>
 
